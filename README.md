@@ -1,3 +1,3 @@
-# jpeg-recovery
+# JPEG Recovery
 
-Made as a part of Harvard's CS50x, this code will recover jpegs from a forensic image.
+Made as a pset of Harvard's CS50x on edX, this code will recover jpegs from a forensic image of a disc.
